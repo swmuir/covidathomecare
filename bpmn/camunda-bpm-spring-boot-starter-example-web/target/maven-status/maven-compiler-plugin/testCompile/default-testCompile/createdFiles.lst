@@ -1,0 +1,3 @@
+org/camunda/bpm/spring/boot/example/web/RestConfig.class
+org/camunda/bpm/spring/boot/example/web/CamundaBpmRestTest.class
+org/camunda/bpm/spring/boot/example/web/CamundaBpmActuatorTest.class
